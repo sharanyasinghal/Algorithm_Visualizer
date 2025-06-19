@@ -66,25 +66,6 @@ Algorithm_Visualizer/
 
 ---
 
-## Screenshots
-
-_Add screenshots or GIFs here to showcase the visualizer interface and features!_
-
----
-
-## Contributing
-
-Contributions, suggestions, and bug reports are welcome!  
-Feel free to fork this repository, make changes, and open a pull request.
-
----
-
-## License
-
-Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
-
----
-
 ## Author
 
 - [Sharanya Singhal](https://github.com/sharanyasinghal)
