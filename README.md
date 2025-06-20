@@ -63,8 +63,21 @@ Algorithm_Visualizer/
 ├── images/                   # Illustration assets
 └── README.md                 # This file
 ```
+## 💻 How to Run
+1️⃣ Clone the repository:
+```bash
+git clone https://github.com/sharanyasinghal/Algorithm_Visualizer.git
 
 ---
+Navigate to the project folder:
+
+bash
+Copy
+Edit
+cd Algorithm_Visualizer
+
+---
+
 
 ## Author
 
