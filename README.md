@@ -78,7 +78,7 @@ cd Algorithm_Visualizer
 
 ---
 
-
+```
 ## Author
 
 - [Sharanya Singhal](https://github.com/sharanyasinghal)
